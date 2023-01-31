@@ -13,6 +13,7 @@ if len(letter) != 1:
 
 print("Searching for " + letter + " in " + word)
 
+#Count of instances of letter
 count = 0
 
 if (letter == word[0]):
